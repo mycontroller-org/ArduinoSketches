@@ -20,7 +20,7 @@
  */
 
 /**
- * Water level sensor based in ultrasonic sensor.
+ * Water level sensor based on ultrasonic sensor.
  */
 
 #include <SPI.h>
